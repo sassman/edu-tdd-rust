@@ -1,0 +1,10 @@
+[package]
+name = "dev_challenge_47"
+version = "0.1.0"
+authors = ["Sven Assmann <sven.assmann.it@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[dev-dependencies]
+speculate = "0.1"
