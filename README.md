@@ -2,4 +2,4 @@
 
 Read the whole article [here][1]
 
-[1]: https://dev.to/sassman/little-rust-starter-hint-series-tests-and-tdd-4gif-temp-slug-9869079
+[1]: https://dev.to/sassman/little-rust-starter-hint-series-tests-and-tdd-3jim
